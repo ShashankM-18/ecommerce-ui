@@ -20,7 +20,7 @@ const Posts = () => {
             <p class="text-[#23A6F0] text-sm font-bold">English Department</p>
             <p class="text-[#252B42] text-base font-bold">Graphic Design</p>
             <p class="text-[#737373] text-sm">
-              We focus on ergonomics and meeting you where you work. It's only a
+              We focus on ergonomics and meeting you where you work. It&apos;s only a
               keystroke away.
             </p>
             <p className="text-[#737373]">15 Sales</p>
@@ -43,7 +43,7 @@ const Posts = () => {
             <p class="text-[#23A6F0] text-sm font-bold">English Department</p>
             <p class="text-[#252B42] text-base font-bold">Graphic Design</p>
             <p class="text-[#737373] text-sm">
-              We focus on ergonomics and meeting you where you work. It's only a
+              We focus on ergonomics and meeting you where you work. It&apos;s only a
               keystroke away.
             </p>
             <p className="text-[#737373]">15 Sales</p>
