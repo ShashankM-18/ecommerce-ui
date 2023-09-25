@@ -15,7 +15,7 @@ const Services = () => {
       </div>
       <div className="lg:mx-48 mx-4 flex lg:flex-row flex-col justify-between items-center">
         <div className="w-48">
-          <Image src={Book} className="m-auto" />
+          <Image src={Book} alt="..." className="m-auto" />
           <div className="lg:mt-3 lg:mb-12 mt-3 mb-16 flex-col text-center">
             <p className="text-[#252B42] text-base font-bold">Easy Wins</p>
             <p className="text-[#737373] text-sm">
@@ -24,7 +24,7 @@ const Services = () => {
           </div>
         </div>
         <div className="w-48">
-          <Image src={Concrete} className="m-auto" />
+          <Image src={Concrete} alt="..." className="m-auto" />
           <div className="lg:mt-3 lg:mb-12 mt-3 mb-16 flex-col text-center">
             <p className="text-[#252B42] text-base font-bold">Concrete</p>
             <p className="text-[#737373] text-sm">
@@ -34,7 +34,7 @@ const Services = () => {
           </div>
         </div>
         <div className="w-48">
-          <Image src={Arrow} className="m-auto" />
+          <Image src={Arrow} alt="..." className="m-auto" />
           <div className="lg:mt-3 lg:mb-12 mt-3 mb-16 flex-col text-center">
             <p className="text-[#252B42] text-base font-bold">Hack Growth</p>
             <p className="text-[#737373] text-sm">

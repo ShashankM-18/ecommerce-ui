@@ -13,7 +13,7 @@ const Grid = () => {
       </div>
       <div className="xl:mx-48 lg:mx-[4.1rem] mx-4 flex lg:flex-row flex-col justify-between items-center">
         <div>
-          <Image src={Pic} />
+          <Image src={Pic} alt="..." />
           <div className="lg:mt-3 lg:mb-12 mt-3 mb-16 flex-col text-center">
             <p className="text-[#252B42] text-base font-bold">Graphic Design</p>
             <p className="text-[#737373] text-sm">English Department</p>
@@ -24,7 +24,7 @@ const Grid = () => {
           </div>
         </div>
         <div>
-          <Image src={Pic} />
+          <Image src={Pic} alt="..." />
           <div className="lg:mt-3 lg:mb-12 mt-3 mb-16 flex-col text-center">
             <p className="text-[#252B42] text-base font-bold">Graphic Design</p>
             <p className="text-[#737373] text-sm">English Department</p>
@@ -35,7 +35,7 @@ const Grid = () => {
           </div>
         </div>
         <div>
-          <Image src={Pic} />
+          <Image src={Pic} alt="..." />
           <div className="lg:mt-3 lg:mb-12 mt-3 mb-16 flex-col text-center">
             <p className="text-[#252B42] text-base font-bold">Graphic Design</p>
             <p className="text-[#737373] text-sm">English Department</p>
@@ -46,7 +46,7 @@ const Grid = () => {
           </div>
         </div>
         <div>
-          <Image src={Pic} />
+          <Image src={Pic} alt="..." />
           <div className="lg:mt-3 lg:mb-12 mt-3 mb-16 flex-col text-center">
             <p className="text-[#252B42] text-base font-bold">Graphic Design</p>
             <p className="text-[#737373] text-sm">English Department</p>
@@ -57,7 +57,7 @@ const Grid = () => {
           </div>
         </div>
         <div>
-          <Image src={Pic} />
+          <Image src={Pic} alt="..." />
           <div className="lg:mt-3 lg:mb-12 mt-3 mb-16 flex-col text-center">
             <p className="text-[#252B42] text-base font-bold">Graphic Design</p>
             <p className="text-[#737373] text-sm">English Department</p>
@@ -70,7 +70,7 @@ const Grid = () => {
       </div>
       <div className="xl:mx-48 lg:mx-[4.1rem] mx-4 flex lg:flex-row flex-col justify-between items-center">
         <div>
-          <Image src={Pic} />
+          <Image src={Pic} alt="..." />
           <div className="lg:mt-3 lg:mb-12 mt-3 mb-16 flex-col text-center">
             <p className="text-[#252B42] text-base font-bold">Graphic Design</p>
             <p className="text-[#737373] text-sm">English Department</p>
@@ -81,7 +81,7 @@ const Grid = () => {
           </div>
         </div>
         <div>
-          <Image src={Pic} />
+          <Image src={Pic} alt="..." />
           <div className="lg:mt-3 lg:mb-12 mt-3 mb-16 flex-col text-center">
             <p className="text-[#252B42] text-base font-bold">Graphic Design</p>
             <p className="text-[#737373] text-sm">English Department</p>
@@ -92,7 +92,7 @@ const Grid = () => {
           </div>
         </div>
         <div>
-          <Image src={Pic} />
+          <Image src={Pic} alt="..." />
           <div className="lg:mt-3 lg:mb-12 mt-3 mb-16 flex-col text-center">
             <p className="text-[#252B42] text-base font-bold">Graphic Design</p>
             <p className="text-[#737373] text-sm">English Department</p>
@@ -103,7 +103,7 @@ const Grid = () => {
           </div>
         </div>
         <div>
-          <Image src={Pic} />
+          <Image src={Pic} alt="..." />
           <div className="lg:mt-3 lg:mb-12 mt-3 mb-16 flex-col text-center">
             <p className="text-[#252B42] text-base font-bold">Graphic Design</p>
             <p className="text-[#737373] text-sm">English Department</p>
@@ -114,7 +114,7 @@ const Grid = () => {
           </div>
         </div>
         <div>
-          <Image src={Pic} />
+          <Image src={Pic} alt="..." />
           <div className="lg:mt-3 lg:mb-12 mt-3 mb-16 flex-col text-center">
             <p className="text-[#252B42] text-base font-bold">Graphic Design</p>
             <p className="text-[#737373] text-sm">English Department</p>

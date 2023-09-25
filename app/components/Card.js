@@ -16,7 +16,7 @@ const Card = () => {
           SHOP NOW
         </button>
       </div>
-      <Image src={Girl} />
+      <Image src={Girl} alt="..." />
     </div>
   );
 };

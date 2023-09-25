@@ -7,8 +7,8 @@ const Featured = () => {
     <div className="lg:mt-40 lg:mx-48 mt-28 mx-4">
       <div className="flex lg:flex-row flex-col-reverse items-center">
         <div className="flex gap-2">
-          <Image src={First} />
-          <Image src={Second} />
+          <Image src={First} alt="..." />
+          <Image src={Second} alt="..." />
         </div>
         <div className="flex flex-col justify-center items-start gap-4 lg:ml-16 m-12">
           <p className="text-[#23A6F0] text-base font-bold">

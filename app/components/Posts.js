@@ -13,6 +13,7 @@ const Posts = () => {
         <div class="flex flex-col lg:max-w-xl lg:flex-row lg:border-0 lg:shadow-none border-2 shadow-xl">
           <Image
             src={First}
+            alt="..."
             className="h-96 w-full lg:object-cover object-bottom lg:h-auto"
           />
           <div class="flex flex-col gap-8 justify-start p-6">
@@ -35,6 +36,7 @@ const Posts = () => {
         <div class="flex flex-col lg:max-w-xl lg:flex-row lg:border-0 lg:shadow-none border-2 shadow-xl">
           <Image
             src={Second}
+            alt="..."
             className="h-96 w-full lg:object-cover object-bottom lg:h-auto"
           />
           <div class="flex flex-col gap-8 justify-start p-6">
